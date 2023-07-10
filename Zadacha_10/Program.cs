@@ -40,18 +40,18 @@ class Program
             {
                 nam = nam / 10;
             }
-            if (nam <= 1000 & nam >= 100)
+            if (nam < 1000 & nam >= 100)
             {
                 nam = nam % 10;
                 Console.WriteLine($"3 цифра числа : {nam}");
             }
-            else if (nam < 100)
+            else  
                 Console.WriteLine($"не целое число : {nam}");
 
         }
         Console.Clear();
         Task13();
-        
+
         void Task13_2()
         {
             /* напишите программу которая с помощью деления выводит 3-ю цифру 
