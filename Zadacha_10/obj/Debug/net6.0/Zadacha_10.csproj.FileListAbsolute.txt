@@ -1,0 +1,15 @@
+/Library/GB/HomWork-2 C# 2/Zadacha_10/bin/Debug/net6.0/Zadacha_10
+/Library/GB/HomWork-2 C# 2/Zadacha_10/bin/Debug/net6.0/Zadacha_10.deps.json
+/Library/GB/HomWork-2 C# 2/Zadacha_10/bin/Debug/net6.0/Zadacha_10.runtimeconfig.json
+/Library/GB/HomWork-2 C# 2/Zadacha_10/bin/Debug/net6.0/Zadacha_10.dll
+/Library/GB/HomWork-2 C# 2/Zadacha_10/bin/Debug/net6.0/Zadacha_10.pdb
+/Library/GB/HomWork-2 C# 2/Zadacha_10/obj/Debug/net6.0/Zadacha_10.csproj.AssemblyReference.cache
+/Library/GB/HomWork-2 C# 2/Zadacha_10/obj/Debug/net6.0/Zadacha_10.GeneratedMSBuildEditorConfig.editorconfig
+/Library/GB/HomWork-2 C# 2/Zadacha_10/obj/Debug/net6.0/Zadacha_10.AssemblyInfoInputs.cache
+/Library/GB/HomWork-2 C# 2/Zadacha_10/obj/Debug/net6.0/Zadacha_10.AssemblyInfo.cs
+/Library/GB/HomWork-2 C# 2/Zadacha_10/obj/Debug/net6.0/Zadacha_10.csproj.CoreCompileInputs.cache
+/Library/GB/HomWork-2 C# 2/Zadacha_10/obj/Debug/net6.0/Zadacha_10.dll
+/Library/GB/HomWork-2 C# 2/Zadacha_10/obj/Debug/net6.0/refint/Zadacha_10.dll
+/Library/GB/HomWork-2 C# 2/Zadacha_10/obj/Debug/net6.0/Zadacha_10.pdb
+/Library/GB/HomWork-2 C# 2/Zadacha_10/obj/Debug/net6.0/Zadacha_10.genruntimeconfig.cache
+/Library/GB/HomWork-2 C# 2/Zadacha_10/obj/Debug/net6.0/ref/Zadacha_10.dll
