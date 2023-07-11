@@ -45,11 +45,11 @@ class Program
                 nam = nam % 10;
                 Console.WriteLine($"3 цифра числа : {nam}");
             }
-            else  
+            else
                 Console.WriteLine($"не целое число : {nam}");
 
         }
-        
+
 
         void Task13_2()
         {
@@ -64,7 +64,7 @@ class Program
                  */
 
 
-            
+
             int nam = Input("введите любое Целое число  ");
 
             if (nam <= 9999999 & nam >= 999999)
@@ -112,8 +112,8 @@ class Program
         {
             Console.WriteLine("Введите число от 1 до 7");
             int nam_A = Convert.ToInt32(Console.ReadLine());
-            
-            if (nam_A==7||nam_A==6)
+
+            if (nam_A == 7 || nam_A == 6)
             {
                 Console.WriteLine("Выходной");
             }
@@ -122,5 +122,5 @@ class Program
         Console.Clear();
         Task14();
 
-    }   
+    }
 }
