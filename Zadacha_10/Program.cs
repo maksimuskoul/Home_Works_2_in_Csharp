@@ -49,8 +49,7 @@ class Program
                 Console.WriteLine($"не целое число : {nam}");
 
         }
-        Console.Clear();
-        Task13();
+        
 
         void Task13_2()
         {
@@ -108,5 +107,20 @@ class Program
                 Console.WriteLine(" 6 if 3 (число двузначное) - 3 цифры NET ");
             }
         }
-    }
+
+        void Task14()
+        {
+            Console.WriteLine("Введите число от 1 до 7");
+            int nam_A = Convert.ToInt32(Console.ReadLine());
+            
+            if (nam_A==7||nam_A==6)
+            {
+                Console.WriteLine("Выходной");
+            }
+            else Console.WriteLine("иди работай негр");
+        }
+        Console.Clear();
+        Task14();
+
+    }   
 }
